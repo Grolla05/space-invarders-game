@@ -53,8 +53,8 @@ Arduino Uno
 
 ## 🖼️ Esquemático
 
-![Simulação](circuit_images/image_simulador.png)
-![Circuito Real](circuit_images/Circuito_real.jpg)
+![Esquemático](circuit_images/esquematico.png)
+![Circuito Real](circuit_images/circuit_image.jpeg)
 
 > Esquemático completo em `Esquemático/Draft1.asc`, pronto para abrir no LTspice.
 
