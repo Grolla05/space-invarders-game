@@ -173,10 +173,4 @@ SpaceInvaders/
 
 ---
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para detalhes.
-
----
-
 *Desenvolvido por Felipe Grolla*
